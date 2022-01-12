@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charest="utf-8">
+<title>计算机学科相关介绍</title>
+<style>
+body
+{
+background-image:url('xjtu8.jpg');
+background-size:100%;
+background-repeat:no-repeat;
+}
+</style>
+</head>
+<body>
+<font color="white">
+<h><font size="7"><strong>计算机学科相关介绍</strong></font></h>
+<h1><em>Heading One:计算机学科课程关系图</em></h><br/>
+<img src="system.png"width="600px"height="400px"/><br/>
+<img src="x.jpg"width="500px"/>
+<h1><em>Heading Two:计算机学科相关资料</em></h>
+<p>
+<ul>
+<li>介绍计算机学科专业网站：</li>
+<a href="https://blog.csdn.net/tonystill/article/details/1610571">https://blog.csdn.net/tonystill/article/details/1610571</a>
+<li>学习计算机语言的网站：</li>
+Java<a href="https://www.javascript.com/">https://www.javascript.com/</a>
+<br/>Python<a href="http://www.learnpython.org/">http://www.learnpython.org/</a>
+<br/>SQLdatabase<a href="http://sql.learncodethehardway.org/book/">http://sql.learncodethehardway.org/book/</a>
+<li>计算机书籍网站：</li>
+<a href="http://ebook-dl.com">http://ebook-dl.com</a>
+</ul>
+</p>
+<h1><em>Heading Three:我对计算机专业的认识</em></h>
+<p>       计算机学科，是一个庞大的科学体系。随着人类进入第三次工业革命，信息化时代正式到来。近年来，计算机科学技术不断发展进步，著名的摩尔定律“集成电路上可以容纳的晶体管数目在大约每经过18个月便会增加一倍”就充分说明了计算机革新之迅速。<br/>当然随着年龄的增长，我自己对计算机的认识，也从仅仅是个玩游戏、看电视的“机器”，变成了处理问题、帮助人类的得力助手。<br/>无疑，计算机专业是当前的大势专业，大家口中的“万金油”。可是，计算机专业培养的不仅仅是一个个敲代码的“程序猿”，更应该是具有前瞻性、创新性的“设计师”。就拿计算机专业里的“人工智能”来说，人工智能就是把人类的智慧迁移甚至提升到“机器人”身上，让其完成满足人类需求的任务，执行一些高难度工作。<br/>可知，现如今，我们应该着重发展的是前沿的科技工作而非基础劳动工作，因此我说我们要在计算机专业做“设计师”，设计出更高端的人工智能，从而提高我们的生活质量，促进人类文明的发展。<br/>总之，我认为计算机专业仍有很大的发展潜力，还有着更多的未知领域等待我们后辈去发掘，我们也应该乘着时代的东风“扶摇直上九万里”！
+</p>
+<h1><em>Heading Four:我的学业规划</em></h>
+<p>大学一共四年的时间，说长不长，说短也不短。大学的学习生活和中学有着很大的不同，然而，经过这么长时间的“磨合”，我自己也逐渐把握了其中的关键，养成了属于自己的学习习惯。因此，我也大致规划了我四年的学习。<br/>在大一阶段，我要努力养成好的学习习惯，每天认真打卡英语单词和听力，当然还要打好高数线代物理基础，为大一末的分流做好准备；<br/>大二学年开始了专业课授课，这时候课程繁重且难，要跟好学习进度，不可虚晃度日浪费光阴；<br/>大三要努力争取保研，如果不能保研就完成课业之余认真备考考研；<br/>大四虽说课程很少，但也可以积极实习，为毕业准备。<br/>同时，大学这四年里还可以积极参加一些学校活动和比赛（腾飞杯、美赛等等）以及社团活动，争取奖学金以及交换机会，全方位发展培养自己。
+</p>
+<table>
+<thead>
+<tr>
+<th>Name(Web maker)</th>
+<th>Grade</th>
+<th>Student Number</th>
+<th>Class</th>
+<th>College</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>张雅娟</td>
+<td>大一</td>
+<td>2214121228</td>
+<td>电类2133导论01班</td>
+<td>电信学部</td>
+</tr>
+</tbody>
+</table>
+</font>
+</body>
+</html>
